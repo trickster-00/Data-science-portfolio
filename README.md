@@ -20,6 +20,7 @@ Note: Data used in the projects (accessed under Data directory) is for demonstra
 - ### ML MIcro Projects
   - [ML with Logistic Regression](https://github.com/trickster-00/Data-science-portfolio/blob/4d7ec07f1b5c4d31164b9067a99a52c50cc8989f/Micro%20projects/Logistic%20Regression%20Project.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
   - [ML with KMeans](https://github.com/trickster-00/Data-science-portfolio/blob/4d7ec07f1b5c4d31164b9067a99a52c50cc8989f/Micro%20projects/KMeans%20Classifier%20Project.ipynb): In this project, we analyze the result of a chemical analysis of wines grown in a particular region in Italy. And the goal is to try to group similar observations together and determine the number of possible clusters.
+  - [Movie Recommendations using Recommender Systems](https://github.com/trickster-00/Data-science-portfolio/blob/2e7d179dc0068a7ccf425327c5af106b375af282/Micro%20projects/Recommender%20Systems.ipynb): A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
  
    Tools: scikit-learn, Pandas, Seaborn, Matplotlib
    
