@@ -13,7 +13,7 @@ Note: Data used in the projects (accessed under Data directory) is for demonstra
   Tools: scikit-learn, Pandas, Seaborn, Matplotlib
 
 - ### Natural Language Processing
-  - [How Swiggy Chatbot Works](https://github.com/trickster-00/Data-science-portfolio/blob/4d7ec07f1b5c4d31164b9067a99a52c50cc8989f/NLP%20projects/Chatbot.ipynb) - Building a similar Chatbot system to Swiggy's using NLP and NLTK.
+  - [Swiggy Chatbot](https://github.com/trickster-00/Data-science-portfolio/blob/4d7ec07f1b5c4d31164b9067a99a52c50cc8989f/NLP%20projects/Chatbot.ipynb) - Building a similar Chatbot system to Swiggy's using NLP and NLTK.
 
   Tools: scikit-learn,NLTK
 
